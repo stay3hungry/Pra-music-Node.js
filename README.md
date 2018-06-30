@@ -1,6 +1,6 @@
 # music-Node.js
 Node.js-音乐可视化  (3000端口)<br>
-启动：ndoe bin/www
+启动：ndoe bin/www<br>
 涉及技术：<br>
 1、 node模块 <br>
 2、 api调用 <br>
